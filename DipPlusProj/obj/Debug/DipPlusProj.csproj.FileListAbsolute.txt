@@ -1,0 +1,72 @@
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe.config
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.pdb
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csprojResolveAssemblyReference.cache
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form1.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form2.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Properties.Resources.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csproj.GenerateResource.Cache
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.exe
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.pdb
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form3.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form4.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form5.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form6.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form7.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.NetWorthPieChart.resources
+C:\Users\zeph1_000\Desktop\DIP PLUS Y2 SEM 2\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Transfer.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe.config
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.exe
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.pdb
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.pdb
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csprojResolveAssemblyReference.cache
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form1.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form2.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form3.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form4.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form5.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form6.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form7.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.NetWorthPieChart.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Properties.Resources.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Transfer.resources
+C:\Users\Kenjilim\Documents\DIPLUS(PROGRAMMING)\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csproj.GenerateResource.Cache
+C:\Users\zeph1_000\Desktop\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe.config
+C:\Users\zeph1_000\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.exe
+C:\Users\zeph1_000\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.pdb
+C:\Users\zeph1_000\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csprojResolveAssemblyReference.cache
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe.config
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.exe
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.pdb
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.pdb
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csprojResolveAssemblyReference.cache
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form1.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form2.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form3.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form4.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form5.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form6.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form7.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.NetWorthPieChart.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Properties.Resources.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Transfer.resources
+C:\Users\zeph1\Desktop\DIPLOMA PLUS\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csproj.GenerateResource.Cache
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe.config
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.exe
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.pdb
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.exe
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\bin\Debug\DipPlusProj.pdb
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csprojResolveAssemblyReference.cache
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form1.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form2.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form3.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form4.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form5.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form6.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Form7.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.NetWorthPieChart.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Properties.Resources.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.Transfer.resources
+C:\Users\zeph1\Desktop\DipPlusProj\DipPlusProj\obj\Debug\DipPlusProj.csproj.GenerateResource.Cache
